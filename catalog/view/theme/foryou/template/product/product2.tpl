@@ -266,7 +266,7 @@
       <a href="<?php echo $this->url->link('product/category');?>"><img src="image/nueva_coleccion.jpg" /></a>
     </div>
     <div class="img">
-      <a href="https://www.facebook.com/Santiamen" target="_BLANK"><img src="image/followus.jpg" /></a>
+      <a href="https://www.facebook.com/Kazuma" target="_BLANK"><img src="image/followus.jpg" /></a>
     </div>
     <div class="separador-triangulos"></div>
     <div class="img">

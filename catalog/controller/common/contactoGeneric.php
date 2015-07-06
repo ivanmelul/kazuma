@@ -40,10 +40,10 @@ class ControllerCommonContactoGeneric extends Controller {
 			// email de destino
 			//contacto@lomatsa.com.ar
 			//, jesicaharari@gmail.com
-			$email = "ventas@santiamen.com.ar";
+			$email = "ventas@kazuma.com.ar";
 			
 			// asunto del email
-			$subject = "Contacto de Santiamen";
+			$subject = "Contacto de Kazuma";
 
 			// Cuerpo del mensaje
 			$mensaje = "---------------------------------- \n";
@@ -61,7 +61,7 @@ class ControllerCommonContactoGeneric extends Controller {
 			$mensaje.= "---------------------------------- \n\n";
 			$mensaje.= $_POST['text']."\n\n";
 			$mensaje.= "---------------------------------- \n";
-			$mensaje.= "Enviado desde http://www.santiamen.com.ar \n";
+			$mensaje.= "Enviado desde http://www.kazuma.com.ar \n";
 
 			// headers del email
 			$headers = "From: ".$_POST['email']."\r\nBcc: jesicaharari@gmail.com\r\n";

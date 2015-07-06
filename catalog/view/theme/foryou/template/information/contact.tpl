@@ -44,11 +44,11 @@
 			<div id="contacto">
 				<div class="left informacion-contacto">
 					<h3>Contacto</h3>
-					<h4>Santiamen</h4>
+					<h4>Kazuma</h4>
 					<h4>Por consultas o información:</h4>
 					<div class="contact-header">					
-						<h4><a href="http://www.santiamen.com.ar">www.santiamen.com.ar</a></h4>
-						<h4>ventas@santiamen.com.ar</h4>
+						<h4><a href="http://www.kazuma.com.ar">www.kazuma.com.ar</a></h4>
+						<h4>ventas@kazuma.com.ar</h4>
 					</div>	
 					<div class="contact-seccion">
 						<h4>Horario de atención</h4>

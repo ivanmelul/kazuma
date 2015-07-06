@@ -3,7 +3,7 @@
 <head>
 <!-- <meta name="description" content="COMPLETAR" /> -->
 <!-- <meta name="keywords" content="" /> -->
-<meta name="author" content="Santiamen" />
+<meta name="author" content="Kazuma" />
 <meta charset="UTF-8" />
 <title><?php echo $title; ?></title>
 <base href="<?php echo $base; ?>" />
@@ -56,7 +56,7 @@ DD_belatedPNG.fix('#logo img');
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
  
-  ga('create', 'UA-47695213-1', 'santiamen.com.ar');
+  ga('create', 'UA-47695213-1', 'kazuma.com.ar');
   ga('send', 'pageview');
  
 </script>

@@ -505,7 +505,7 @@ class ModelCheckoutOrder extends Model {
 			$email = $order_info['email'];
 			
 			// asunto del email
-			$subject = "Pedido de Santiamen";
+			$subject = "Pedido de Kazuma";
 
 			// Cuerpo del mensaje
 			$mensaje = $html;
@@ -519,13 +519,13 @@ class ModelCheckoutOrder extends Model {
 				//No Hago Nada
 			}
 		
-			//Mando el mismo mail pero para santiamen y de parte del cliente
+			//Mando el mismo mail pero para kazuma y de parte del cliente
 			
 			// email de destino
 			$email = $this->config->get('config_email');
 			
 			// asunto del email
-			$subject = "Pedido de Santiamen";
+			$subject = "Pedido de Kazuma";
 
 			// Cuerpo del mensaje
 			$mensaje = $html;

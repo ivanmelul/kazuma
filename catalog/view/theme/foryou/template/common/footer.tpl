@@ -61,7 +61,7 @@
 			
 		</div>
 		<div class="contact left">
-			<a href="https://www.facebook.com/santiamenjeans" target="_blank" style="text-decoration:none"><h3><img style="margin-bottom: -5px;" src="image/facebook.jpg"/>facebook</h3></a>
+			<a href="https://www.facebook.com/kazuma" target="_blank" style="text-decoration:none"><h3><img style="margin-bottom: -5px;" src="image/facebook.jpg"/>facebook</h3></a>
 		</div>
 		<div class="follow left">
 			<h3><img style="margin-bottom: -5px;" src="image/message.png"/>newsletter <input type="text" value="Ingres&aacute; tu email aqu&iacute;" name="mail" id="mail_newsletter" class="input-text"/> <div class="enter">&nbsp;></div></h3>
@@ -71,7 +71,7 @@
 	</div>
 </div>
 <div class="fooooter">
-	<span class="izq">SANTIAMEN 2015</span>
+	<span class="izq">KAZUMA 2015</span>
 	<span class="der">
 		<a href="http://www.whif.com.ar/" target="_BLANK" style="text-decoration:none">
 			WHIF MEDIA GROUP

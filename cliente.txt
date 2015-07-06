@@ -1,4 +1,4 @@
-Gracias por el interés en los productos de Santiamen. Tu pedido ha sido recibido y será procesado.
+Gracias por el interés en los productos de Kazuma. Tu pedido ha sido recibido y será procesado.
 
 Id de pedido: 8
 Fecha alta: 11/03/2014
@@ -20,8 +20,8 @@ Productos
 Sub-Total:: $120.00
 Total:: $120.00
 
-Gracias por el interesarte en los productos de Santiamen. Tu pedido ha sido recibido y sera procesado.\nPara visitar nuestro sitio cliquea en el enlace inferior:\n www.santiamen.com.ar
-http://www.santiamen.com.ar/index.php?route=account/order/info&order_id=8
+Gracias por el interesarte en los productos de Kazuma. Tu pedido ha sido recibido y sera procesado.\nPara visitar nuestro sitio cliquea en el enlace inferior:\n www.kazuma.com.ar
+http://www.kazuma.com.ar/index.php?route=account/order/info&order_id=8
 
 Por favor responde a este email si tienes alguna duda.
 

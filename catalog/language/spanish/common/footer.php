@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_site']         = 'Santiamen';
+$_['text_site']         = 'Kazuma';
 $_['text_home']         = 'Home';
 $_['text_products']     = 'Productos';
 $_['text_stores']       = 'Locales';

@@ -32,7 +32,7 @@ class ControllerServicesMailSender extends Controller {
     private function getText() {
         $newline = "\n";
         $text = 'Contacto de ' . $this->request->post['name'];
-        $text .= ' desde santiamen.com.ar' . $newline;
+        $text .= ' desde kazuma.com.ar' . $newline;
         $text .= 'Email: ' . $this->request->post['email'] . $newline;
         $text .= 'Consulta: ' . strip_tags(html_entity_decode($this->request->post['enquiry'], ENT_QUOTES, 'UTF-8'));
         $text .= $newline . $newline . "--";

@@ -1,6 +1,6 @@
 <?php
-$url = 'http://www.santiamen.com.ar/';
-$directorioRaiz = '/home/santiamen/santiamen.com.ar/';
+$url = 'http://www.kazuma.com.ar/';
+$directorioRaiz = '/home/kazuma/kazuma.com.ar/';
 
 // HTTP
 define('HTTP_SERVER', $url . 'admin/');
@@ -27,9 +27,9 @@ define('DIR_CATALOG', $directorioRaiz .'catalog/');
 
 // DB
 define('DB_DRIVER', 'mysql');
-define('DB_HOSTNAME', 'mysql.santiamen.com.ar');
-define('DB_USERNAME', 'santiamen');
-define('DB_PASSWORD', 'santiamen_123');
-define('DB_DATABASE', 'santiamen_db');
+define('DB_HOSTNAME', 'mysql.kazuma.com.ar');
+define('DB_USERNAME', 'kazuma');
+define('DB_PASSWORD', 'kazukazu');
+define('DB_DATABASE', 'kazuma');
 define('DB_PREFIX', '');
 ?>

@@ -58,7 +58,7 @@ if(!empty($_GET["path"])){
 					<hr/>
 					<br/>
 					<span class="seccion">FACEBOOK:</span>
-					<span>/santiamenjeans</span><br/>
+					<span>/kazuma</span><br/>
 					<div style="clear:both"></div>
 				</div>
 				<style type="text/css">
@@ -113,7 +113,7 @@ if(!empty($_GET["path"])){
 						<!--<a href="<?php echo $this->url->link('product/category');?>"><img src="image/nueva_coleccion.jpg" /></a>-->
 					</div>
 					<div class="img">
-						<a href="https://www.facebook.com/Santiamen" target="_BLANK"><img src="image/followus.jpg" /></a>
+						<a href="https://www.facebook.com/Kazuma" target="_BLANK"><img src="image/followus.jpg" /></a>
 					</div>
 					<div class="separador-triangulos"></div>
 					<div class="separador-corazon"></div>
@@ -147,7 +147,7 @@ if(!empty($_GET["path"])){
 					<div class="consulta">
 						<h3>INFO Y VENTAS</h3>
 						<!-- <p>(011) 4611-4762 o 4637-6203</p> -->
-						<p>ventas@santiamen.com.ar</p>
+						<p>ventas@kazuma.com.ar</p>
 					</div>
 					<div class="faq_bottom"></div>
 					<div class="talles">
@@ -373,7 +373,8 @@ if(!empty($_GET["path"])){
 					<div class="consulta">
 						<h3>INFO Y VENTAS</h3>
 						<p>(011) 4611-4762 o 4637-6203</p>
-						<p>ventas@santiamen.com.ar</p>
+						<p>ventas@kazuma.com.ar</p>
+						<p>jesicaharari@gmail.com.ar</p>
 					</div>
 					<div class="faq_bottom"></div>
 					<div class="talles">
@@ -422,7 +423,7 @@ if(!empty($_GET["path"])){
 						<!--<a href="<?php echo $this->url->link('product/category');?>"><img src="image/nueva_coleccion.jpg" /></a>-->
 					</div>
 					<div class="img">
-						<a href="https://www.facebook.com/Santiamen" target="_BLANK"><img src="image/followus.jpg" /></a>
+						<a href="https://www.facebook.com/Kazuma" target="_BLANK"><img src="image/followus.jpg" /></a>
 					</div>
 					<div class="separador-triangulos"></div>
 					<div class="separador-corazon"></div>
@@ -489,7 +490,7 @@ if(!empty($_GET["path"])){
 					<br style="clear:both"/>
 					<br/>
 					<p style="color:#000; font-family:MyriadProCond;font-size:16px">
-						Por consultas relacionadas con nuestra TIENDA ONLINE, <br/>ventas@santiamen.com.ar o llamanos al 4613-7645 / 7547.<br/>
+						Por consultas relacionadas con nuestra TIENDA ONLINE, <br/>ventas@kazuma.com.ar o llamanos al 4613-7645 / 7547.<br/>
 						Pasá por nuestro local en Argerich 265. - Flores - Capital Federal.
 					</p>
 					<form class="contact-form" id="contactForm">
