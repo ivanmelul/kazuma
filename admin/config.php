@@ -1,6 +1,6 @@
 <?php
 $url = 'http://www.kazuma.com.ar/';
-$directorioRaiz = '/home/kazuma/kazuma.com.ar/';
+$directorioRaiz = '/home/kazuma_ftp/kazuma.com.ar/';
 
 // HTTP
 define('HTTP_SERVER', $url . 'admin/');
@@ -29,7 +29,7 @@ define('DIR_CATALOG', $directorioRaiz .'catalog/');
 define('DB_DRIVER', 'mysql');
 define('DB_HOSTNAME', 'mysql.kazuma.com.ar');
 define('DB_USERNAME', 'kazuma');
-define('DB_PASSWORD', 'kazukazu');
+define('DB_PASSWORD', 'kazuma_pass');
 define('DB_DATABASE', 'kazuma');
 define('DB_PREFIX', '');
 ?>
